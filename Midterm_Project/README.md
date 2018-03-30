@@ -4,4 +4,4 @@ Data:
 
 Analysis:
 - Developed a linear regression model that explains 81.6% of the variability of the response data around its mean using the 'mpg.csv' data. Explored the dependency of miles-per-gallon on various features of the car and the extent of it. Finally, used the model to predict mpg values for sample values of vehicle features.
-- Built a logistic regression (with around 80% accuracy) to predict the 'Churn' variable based on client features using the 'WA_Fn-UseC_-Telco-Customer-Churn.csv' data. Additionally, identified variable that influences the churn of clients and thier level of significance. Finally found the clients with highest chance of leaving.
+- Built a logistic regression (with around 80% accuracy) to predict the 'Churn' variable based on client features using the 'WA_Fn-UseC_-Telco-Customer-Churn.csv' data. Additionally, identified variables that influences the churn of clients and thier level of significance. Finally, found the clients with highest chance of leaving.
